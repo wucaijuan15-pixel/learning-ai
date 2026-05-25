@@ -31,3 +31,6 @@ def calculate_bmi():
 
 if __name__ == "__main__":
     calculate_bmi()
+
+
+#我就是测试下更新的上传上去是怎样的
